@@ -1,0 +1,15 @@
+{
+  "name": "sso-test",
+  "version": "1.0.0",
+  "description": "Simple project to receive callbacks from Identity Provider to tests flows of OpenID Connect",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Romano",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
